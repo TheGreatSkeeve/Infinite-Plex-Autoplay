@@ -14,3 +14,6 @@ The device needs to already have a connection to Plex in order for this to work,
 There are a couple issues, I'm not great at programming so I don't understand them 100%.  Sometimes the variable for the TV show throws an XML parsing error, sometimes it doesn't.  Sometimes the timeline doesn't get pulled right.  But overall it works.
 
 Feel free to customize for your own ends, this is pretty simple and not very pretty, but it gets the job done.
+
+# GUI Version
+This is pretty unpolished, it's a WIP.  Relies on PySimpleGUI.

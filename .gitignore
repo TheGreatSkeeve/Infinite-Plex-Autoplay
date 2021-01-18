@@ -1,0 +1,11 @@
+# Files
+*.db
+*.msi
+*.log
+
+# Environments
+venv/
+
+# PyCharm
+.idea/
+__pycache__/

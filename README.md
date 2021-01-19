@@ -1,4 +1,7 @@
 # Infinite-Plex-Autoplay
+
+Note:  This works with Roku TVs using the Plex app.  I'll update it at some point to add Chromecast functionality (1/19/2021, let's aim for before 2022 huh)
+
 A script using the Python PlexAPI to keep Plex from killing your stream after two hours
 
 To use this script, you'll need:
